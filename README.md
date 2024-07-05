@@ -1,5 +1,3 @@
-# Granting-Access-to-External-Organization-Groups-GCP
-
 # Granting Access to External Organization Groups
 
 This repository provides a detailed guide on how to grant access to external organization groups using Google Admin Console and Google Cloud Platform.
