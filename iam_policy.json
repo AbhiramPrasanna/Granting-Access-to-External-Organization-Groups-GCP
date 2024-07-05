@@ -1,0 +1,10 @@
+{
+  "bindings": [
+    {
+      "role": "roles/viewer",
+      "members": [
+        "group:external_group@example.com"
+      ]
+    }
+  ]
+}
